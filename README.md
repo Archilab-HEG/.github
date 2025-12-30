@@ -80,7 +80,6 @@ Moderniser les pratiques archivistiques en intégrant les technologies d'intelli
 |------------|-------------|--------|
 | [Ask_ArchiLab](https://github.com/ArchiLab-HEG/Ask_ArchiLab) | Système principal - Assistant IA conversationnel | 🟢 Actif |
 | [Ask_ArchiLab_Data](https://github.com/ArchiLab-HEG/Ask_ArchiLab_Data) | Pipelines d'extraction et corpus structurés | 🟢 Actif |
-| [Ask_ArchiLab_Docs](https://github.com/ArchiLab-HEG/Ask_ArchiLab_Docs) | Documentation technique et scientifique | 🟢 Actif |
 
 ---
 
